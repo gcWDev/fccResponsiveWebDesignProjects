@@ -10,5 +10,6 @@ Projects included:
 4. Magazine cover
 5. Animated ferris wheel
 6. JS documentation page
+7. Contact me form with hover animations
 
 and more to come !
